@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 group-title=INDONESIA,MNC RCTI
+http://live.metube.id/tv/channel3000004/index.m3u8
+#EXTINF:-1 group-title=INDONESIA,MNCTV
+http://live.metube.id/tv/channel2000022/index.m3u8
+#EXTINF:-1 group-title=INDONESIA,MNC Global TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8
+#EXTINF:-1 group-title=INDONESIA,iNews TV
+http://cdn.live2.metube.id/live/tv/prod/inews_240/index.m3u8
+#EXTINF:-1 group-title=INDONESIA,MNC News
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index.m3u8
+#EXTINF:-1 group-title=INDONESIA,MNC Shop 88
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index.m3u8
+#EXTINF:-1 group-title=INDONESIA,MNC Infotainment
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/index.m3u8
+#EXTINF:-1 group-title=INDONESIA,MNC Music
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index.m3u8
+#EXTINF:-1 group-title=INDONESIA,TV One (Vidio)
+https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,ANTV (Vidio)
+https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,Indosiar
+https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,SCTV
+https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,O Channel
+https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1665289542_b1000000_sleng.m3u8
+#EXTINF:-1 group-title=INDONESIA,Metro TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1665289542_b1300000_sleng.m3u8
+#EXTINF:-1 group-title=INDONESIA,RTV
+rtmp://203.153.97.35/live/livestream
+#EXTINF:-1 group-title=INDONESIA,RTV (Vidio)
+https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,KOMPAS TV
+http://43.245.183.170/kompastv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,Trans TV (Vidio)
+https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,TRANS7 HD
+http://wowzaprodhd84-lh.akamaihd.net/i/6adfb169_1@440558/master.m3u8
+#EXTINF:-1 group-title=INDONESIA,CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,Berita Satu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,Jakarta Globe News Channel
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:-1 group-title=INDONESIA,TVRI Jabar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
+#EXTINF:-1 group-title=INDONESIA,Inspira TV
+http://video.inspira.tv:1935/inspiratv/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,Nusantara TV HD
+rtmp://103.65.236.253/live//liventv1
+#EXTINF:-1 group-title=INDONESIA,Cahaya TV
+rtmp://103.23.201.170/live/livestream
+#EXTINF:-1 group-title=INDONESIA,INTV
+rtmp://flash1.broadcastindo.net/bantentv//stream.sdp
+#EXTINF:-1 group-title=INDONESIA,RIMTV
+rtmp://office.rim-tv.com/live/_definst_/mp4:rimTV_source
+#EXTINF:-1 group-title=INDONESIA,Binus TV
+rtmp://202.58.181.205/binustv/binustv.flv
+#EXTINF:-1 group-title=INDONESIA,Rodja TV HD
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,TV9
+rtmp://119.235.249.60/tv9//live
+#EXTINF:-1 group-title=INDONESIA,BIOS TV
+rtmp://ss.bbstv.co.id/bbstv/live1
+#EXTINF:-1 group-title=INDONESIA,JTV
+rtmp://122.248.32.234/ch2/myStream
+#EXTINF:-1 group-title=INDONESIA,Wesal TV
+http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,JEK TV
+http://122.248.32.234:1935/ch14/myStream/chunklist_w1934173450.m3u8
+#EXTINF:-1 group-title=INDONESIA,ADI TV
+rtmp://aditv.onlivestreaming.net/aditv//livestream
+#EXTINF:-1 group-title=INDONESIA,TATV
+http://flash1.broadcastindo.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,beIN Sports 1 (TH)
+http://ball4fun.redirectme.net:1935/live1/0x777_beinsport1_360p/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,beIN Sports 2 (TH)
+http://ball4fun.redirectme.net:1935/live1/0x777_beinsporthd2_360p/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,beIN Sports 3 (TH)
+http://ball4fun.redirectme.net:1935/live1/0x777_beinsporthd3_360p/playlist.m3u8
+#EXTINF:-1 group-title=INDONESIA,Fight Sports
+rtmp://118.97.183.222/discover/fight
+#EXTINF:-1 group-title=INDONESIA,Channel NewsAsia
+rtmp://180.250.29.21/jhos/newsasia
+#EXTINF:-1 group-title=INDONESIA,Australia Plus
+rtmp://118.97.183.222/discover/aplus
+#EXTINF:-1 group-title=INDONESIA,AniPlus
+rtmp://118.97.183.222/discover/aniplus
+#EXTINF:-1 group-title=INDONESIA,K+
+rtmp://118.97.183.222/discover/kplus
+#EXTINF:-1 group-title=INDONESIA,Zee Bioskop
+rtmp://118.97.183.222/discover/zbioskop
+#EXTINF:-1 group-title=INDONESIA,HI Indo
+rtmp://118.97.183.222/discover/hiindo
+#EXTINF:-1 group-title=INDONESIA,Prambors
+rtmp://118.97.183.222/discover/prambors
+#EXTINF:-1 group-title=INDONESIA,Space Toon Plus
+rtmp://118.97.183.222/discover/spacetoonplus
+#EXTINF:-1 group-title=INDONESIA,T-Music
+rtmp://118.97.183.196/jhos/allegro
+#EXTINF:-1 group-title=INDONESIA,MQTV
+rtmp://118.97.183.196/jhos/mqtv
+#EXTINF:-1 group-title=INDONESIA,Al Quran Kareem
+rtmp://118.97.183.196/jhos/alquran
+#EXTINF:-1 group-title=INDONESIA,Celebes TV
+rtmp://118.97.183.196/jhos/celebestv
+#EXTINF:-1 group-title=INDONESIA,tv Mu
+rtmp://118.97.183.196/jhos/muhammadiyahtv
+#EXTINF:-1 group-title=INDONESIA,PayTren TV
+rtmp://118.97.183.196/jhos/paytrentv
